@@ -1,5 +1,5 @@
 {
-  "extends": "airbnb",
+  "extends": "trybe-backend",
   "rules": {
     "no-alert": "off",
     "prefer-arrow-callback": "off",
