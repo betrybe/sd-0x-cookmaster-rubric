@@ -9,7 +9,7 @@
     "start": "node index.js",
     "start:watch": "nodemon index.js",
     "cypress:open": "cypress open",
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx"
   },
   "repository": {
     "type": "git",
